@@ -16,7 +16,7 @@ Dashboard interaction
 Sales Dashboard
 <img width="1442" height="804" alt="Screenshot 2025-11-17 204639" src="https://github.com/user-attachments/assets/ae6bcc12-64a7-49f8-bbc5-c3e0dbdf7787" />
 
-15-Day Sales Forecasting.  
-<img width="1440" height="798" alt="Screenshot 2025-11-17 204719" src="https://github.com/user-attachments/assets/d43ca0d0-2213-4c97-b1df-362873a3609b" />
-
 Dashboard interaction 15 Days Sales Forecasting - <a href = "https://github.com/Ziya1701/Sales-Dashboard/blob/main/Screenshot%202025-11-17%20204719.png" > 15 Days Sales Forecasting </a>
+
+15-Days Sales Forecasting.  
+<img width="1440" height="798" alt="Screenshot 2025-11-17 204719" src="https://github.com/user-attachments/assets/d43ca0d0-2213-4c97-b1df-362873a3609b" />
