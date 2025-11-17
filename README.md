@@ -1,5 +1,5 @@
 # Sales Dashboard and 15-Day Sales Forecasting.  
-## Description 
+### Description 
 This project focuses on transforming raw sales data into meaningful insights through a visually appealing and interactive Power BI dashboard. Key highlights include:
 Dashboard Creation: Designed an intuitive dashboard with KPIs, charts, and filters to help users explore data easily.
 Data Analysis: Studied sales performance to identify trends, customer patterns, and key factors affecting revenue.
