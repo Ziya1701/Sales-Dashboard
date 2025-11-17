@@ -1,1 +1,3 @@
-Sales Dashboard and 15-Day Sales Forecasting. To analyze supermarket sales data using data analysis and time-series techniques, and to create an interactive Power BI dashboard that provides clear insights and accurate 15-day sales forecasting.
+# Sales Dashboard and 15-Day Sales Forecasting.  
+## Objective
+To analyze supermarket sales data using data analysis and time-series techniques, and to create an interactive Power BI dashboard that provides clear insights and accurate 15-day sales forecasting.
