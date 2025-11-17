@@ -8,6 +8,7 @@ Insights & Recommendations: Provided actionable insights to support better plann
 ## Objective
 To analyze supermarket sales data using data analysis and time-series techniques, and to create an interactive Power BI dashboard that provides clear insights and accurate 15-day sales forecasting.
 -<a href= "https://github.com/Ziya1701/Sales-Dashboard/blob/main/Sales%20Dashboard%201.pbix"> Data set</a>
+Dashboard interaction 
 -<a href = "https://github.com/Ziya1701/Sales-Dashboard/blob/main/Screenshot%202025-11-17%20204639.png"> Viwe dashboard</a>
 
 
